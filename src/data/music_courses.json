@@ -1,0 +1,117 @@
+{
+    "courses":[
+      {
+        "course_id": 1,
+        "title": "Beginner Guitar Mastery",
+        "instructor": "John Smith",
+        "duration": "8 weeks",
+        "level": "Beginner",
+        "price": 99.99,
+        "description": "Learn the fundamentals of playing the guitar, including chords, strumming, and basic melodies.",
+        "is_featured": true,
+        "image_url": "/1.jpg"
+      },
+      {
+        "course_id": 2,
+        "title": "Piano for Beginners",
+        "instructor": "Emily Johnson",
+        "duration": "10 weeks",
+        "level": "Beginner",
+        "price": 119.99,
+        "description": "A step-by-step guide to playing the piano, reading sheet music, and understanding music theory.",
+        "is_featured": false,
+        "image_url": ""
+      },
+      {
+        "course_id": 3,
+        "title": "Advanced Music Production",
+        "instructor": "David Martinez",
+        "duration": "12 weeks",
+        "level": "Advanced",
+        "price": 199.99,
+        "description": "Master music production techniques, DAW software, mixing, and mastering for professional music production.",
+        "is_featured": true,
+        "image_url": "/2.jpg"
+      },
+      {
+        "course_id": 4,
+        "title": "Jazz Improvisation Techniques",
+        "instructor": "Sarah Lee",
+        "duration": "6 weeks",
+        "level": "Intermediate",
+        "price": 149.99,
+        "description": "Explore the art of jazz improvisation, scales, and harmonies to enhance your playing style.",
+        "is_featured": false,
+        "image_url": "https://example.com/images/jazz_course.jpg"
+      },
+      {
+        "course_id": 5,
+        "title": "Vocal Training & Singing Masterclass",
+        "instructor": "Michael Brown",
+        "duration": "8 weeks",
+        "level": "All Levels",
+        "price": 129.99,
+        "description": "Learn professional singing techniques, voice control, breathwork, and performance skills.",
+        "is_featured": true,
+        "image_url": "/1.jpg"
+      },
+      {
+        "course_id": 6,
+        "title": "Electronic Music Production with Ableton Live",
+        "instructor": "Alex Carter",
+        "duration": "10 weeks",
+        "level": "Intermediate",
+        "price": 179.99,
+        "description": "Produce electronic music using Ableton Live, covering beat-making, synthesis, and sound design.",
+        "is_featured": false,
+        "image_url": "https://example.com/images/ableton_course.jpg"
+      },
+      {
+        "course_id": 7,
+        "title": "Classical Violin Techniques",
+        "instructor": "Sophia Kim",
+        "duration": "12 weeks",
+        "level": "Advanced",
+        "price": 199.99,
+        "description": "Refine your violin skills with advanced bowing techniques, vibrato, and performance strategies.",
+        "is_featured": true,
+        "image_url": "/2.jpg"
+      },
+      {
+        "course_id": 8,
+        "title": "Music Theory Essentials",
+        "instructor": "Robert Wilson",
+        "duration": "6 weeks",
+        "level": "Beginner",
+        "price": 79.99,
+        "description": "Understand the basics of music theory, including scales, chords, harmony, and notation.",
+        "is_featured": false,
+        "image_url": "https://example.com/images/music_theory.jpg"
+      },
+      {
+        "course_id": 9,
+        "title": "Drumming Fundamentals",
+        "instructor": "Chris Evans",
+        "duration": "8 weeks",
+        "level": "Beginner",
+        "price": 99.99,
+        "description": "Learn essential drumming techniques, rhythms, and beats for various music genres.",
+        "is_featured": true,
+        "image_url": "/1.jpg"
+      },
+      {
+        "course_id": 10,
+        "title": "Film Scoring and Composition",
+        "instructor": "Anna Williams",
+        "duration": "12 weeks",
+        "level": "Advanced",
+        "price": 249.99,
+        "description": "Learn to compose music for films, create emotional soundscapes, and work with orchestration.",
+        "is_featured": true,
+        "image_url": "/2.jpg"
+      }
+    ]
+    
+    
+      
+}
